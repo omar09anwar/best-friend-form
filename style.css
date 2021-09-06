@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
+
+body{
+    font-family: Oswald, sans-serif;
+    background: url("https://i1.faceprep.in/ProGrad/minion-background.png");
+    background-size: 100% 100%;
+}
+section{
+    width: 500px;
+    background-color: white;
+    margin: auto;
+    padding: 10px 0;
+}
+
+
+div{
+    text-align: center;
+}
+
+label{
+    font-weight: bold;
+}
+
+input, textarea{
+    margin-top: 10px;
+}
+
+p, input[type="text"], input[type="number"],textarea,form{
+    width: 350px;
+    padding: 8px;
+}
+p, form{
+    margin: auto;
+}
+
+label{
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+input[type="submit"]{
+display:block;
+margin: auto;
+background-color: blue;
+color: white;
+cursor: cell;
+}
