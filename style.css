@@ -41,7 +41,6 @@ label{
 input[type="submit"]{
 display:block;
 margin: auto;
-background-color: blue;
-color: white;
-cursor: cell;
+background-color: red;
+color: blue;
 }
